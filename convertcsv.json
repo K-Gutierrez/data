@@ -1,0 +1,298 @@
+[
+ {
+   "EG1": "1_NRPs",
+   "EG1BMAA": "1_bacterio",
+   "PA": "1_NRPs",
+   "PABMAA": "11_bacterio",
+   "RA": "1_NRPs",
+   "RABMAA": "10_bacterio"
+ },
+ {
+   "EG1": "14_T2pks",
+   "EG1BMAA": "14_otro",
+   "PA": "11_bacterio",
+   "PABMAA": "13_bacterio",
+   "RA": "10_bacterio",
+   "RABMAA": "12_bacterio"
+ },
+ {
+   "EG1": "2_thiopeptide",
+   "EG1BMAA": "17_aryl",
+   "PA": "14_bacterio",
+   "PABMAA": "14_bacterio",
+   "RA": "12_bacterio",
+   "RABMAA": "14_bacterio"
+ },
+ {
+   "EG1": "3_Hserlac",
+   "EG1BMAA": "2_thiopeptide",
+   "PA": "15_lassopep",
+   "PABMAA": "15_lassopep",
+   "RA": "13_bacterio",
+   "RABMAA": "15_lassopep"
+ },
+ {
+   "EG1": "3_Hserlac",
+   "EG1BMAA": "2_thiopeptide",
+   "PA": "18_otro",
+   "PABMAA": "20_thiopeptide",
+   "RA": "14_bacterio",
+   "RABMAA": "27_resorci"
+ },
+ {
+   "EG1": "5_Acylamino",
+   "EG1BMAA": "22_bacterio",
+   "PA": "8_bacterio",
+   "PABMAA": "22_NRPs",
+   "RA": "14_bacterio",
+   "RABMAA": "33_butiro"
+ },
+ {
+   "EG1": "BGC0000295_c1",
+   "EG1BMAA": "33_terpeno",
+   "PA": "9_bacterio",
+   "PABMAA": "4_Hserlac",
+   "RA": "19_otro",
+   "RABMAA": "4_Hserlac"
+ },
+ {
+   "EG1": "BGC0000295_c1",
+   "EG1BMAA": "35_sidero",
+   "PA": "BGC0000300_c1",
+   "PABMAA": "8_bacterio",
+   "RA": "23_resorci",
+   "RABMAA": "6_terpeno"
+ },
+ {
+   "EG1": "BGC0000451_c1",
+   "EG1BMAA": "6_terpeno",
+   "PA": "BGC0000343_c1",
+   "PABMAA": "9_bacterio",
+   "RA": "31_T1pks",
+   "RABMAA": "8_bacterio"
+ },
+ {
+   "EG1": "BGC0000451_c1",
+   "EG1BMAA": "7_sidero",
+   "PA": "BGC0000359_c1",
+   "PABMAA": "BGC0000279_c1",
+   "RA": "6_terpeno",
+   "RABMAA": "BGC0000279_c1"
+ },
+ {
+   "EG1": "BGC0000451_c1",
+   "EG1BMAA": "BGC0000295_c1",
+   "PA": "BGC0000359_c1",
+   "PABMAA": "BGC0000300_c1",
+   "RA": "6_terpeno",
+   "RABMAA": "BGC0000300_c1"
+ },
+ {
+   "EG1": "BGC0000451_c1",
+   "EG1BMAA": "BGC0000295_c1",
+   "PA": "BGC0000366_c1",
+   "PABMAA": "BGC0000343_c1",
+   "RA": "BGC0000343_c1",
+   "RABMAA": "BGC0000343_c1"
+ },
+ {
+   "EG1": "BGC0000451_c1",
+   "EG1BMAA": "BGC0000451_c1",
+   "PA": "BGC0000451_c1",
+   "PABMAA": "BGC0000359_c1",
+   "RA": "BGC0000359_c1",
+   "RABMAA": "BGC0000359_c1"
+ },
+ {
+   "EG1": "BGC0000636_c1",
+   "EG1BMAA": "BGC0000451_c1",
+   "PA": "BGC0000451_c1",
+   "PABMAA": "BGC0000359_c1",
+   "RA": "BGC0000368_c1",
+   "RABMAA": "BGC0000366_c1"
+ },
+ {
+   "EG1": "BGC0000637_c1",
+   "EG1BMAA": "BGC0000451_c1",
+   "PA": "BGC0000639_c1",
+   "PABMAA": "BGC0000368_c1",
+   "RA": "BGC0000413_c1",
+   "RABMAA": "BGC0000368_c1"
+ },
+ {
+   "EG1": "BGC0000639_c1",
+   "EG1BMAA": "BGC0000451_c1",
+   "PA": "BGC0000639_c1",
+   "PABMAA": "BGC0000413_c1",
+   "RA": "BGC0000451_c1",
+   "RABMAA": "BGC0000451_c1"
+ },
+ {
+   "EG1": "BGC0000639_c1",
+   "EG1BMAA": "BGC0000454_c1",
+   "PA": "BGC0000836_c1",
+   "PABMAA": "BGC0000413_c1",
+   "RA": "BGC0000451_c1",
+   "RABMAA": "BGC0000451_c1"
+ },
+ {
+   "EG1": "BGC0000641_c1",
+   "EG1BMAA": "BGC0000586_c1",
+   "PA": "BGC0000836_c1",
+   "PABMAA": "BGC0000451_c1",
+   "RA": "BGC0000836_c1",
+   "RABMAA": "BGC0000451_c1"
+ },
+ {
+   "EG1": "BGC0000836_c1",
+   "EG1BMAA": "BGC0000636_c1",
+   "PA": "BGC0000836_c1",
+   "PABMAA": "BGC0000451_c1",
+   "RA": "BGC0000836_c1",
+   "RABMAA": "BGC0000587_c1"
+ },
+ {
+   "EG1": "BGC0000836_c1",
+   "EG1BMAA": "BGC0000636_c1",
+   "PA": "BGC0000836_c1",
+   "PABMAA": "BGC0000451_c1",
+   "RA": "BGC0000837_c1",
+   "RABMAA": "BGC0000781_c1"
+ },
+ {
+   "EG1": "BGC0000836_c1",
+   "EG1BMAA": "BGC0000639_c1",
+   "PA": "BGC0000836_c1",
+   "PABMAA": "BGC0000454_c1",
+   "RA": "BGC0000837_c1",
+   "RABMAA": "BGC0000836_c1"
+ },
+ {
+   "EG1": "BGC0000836_c1",
+   "EG1BMAA": "BGC0000639_c1",
+   "PA": "BGC0000837_c1",
+   "PABMAA": "BGC0000587_c1",
+   "RA": "BGC0000837_c1",
+   "RABMAA": "BGC0000836_c1"
+ },
+ {
+   "EG1": "BGC0000837_c1",
+   "EG1BMAA": "BGC0000641_c1",
+   "PA": "BGC0000837_c1",
+   "PABMAA": "BGC0000639_c1",
+   "RA": "BGC0000837_c1",
+   "RABMAA": "BGC0000837_c1"
+ },
+ {
+   "EG1": "BGC0000837_c1",
+   "EG1BMAA": "BGC0000781_c1",
+   "PA": "BGC0000939_c1",
+   "PABMAA": "BGC0000639_c1",
+   "RA": "BGC0000837_c1",
+   "RABMAA": "BGC0000837_c1"
+ },
+ {
+   "EG1": "BGC0000939_c1",
+   "EG1BMAA": "BGC0000836_c1",
+   "PA": "BGC0001055_c1",
+   "PABMAA": "BGC0000639_c1",
+   "RA": "BGC0000837_c1",
+   "RABMAA": "BGC0000837_c1"
+ },
+ {
+   "EG1": "BGC0001090_c1",
+   "EG1BMAA": "BGC0000836_c1",
+   "PA": "",
+   "PABMAA": "BGC0000781_c1",
+   "RA": "BGC0000837_c1",
+   "RABMAA": "BGC0000939_c1"
+ },
+ {
+   "EG1": "BGC0001351_c1",
+   "EG1BMAA": "BGC0000836_c1",
+   "PA": "",
+   "PABMAA": "BGC0000836_c1",
+   "RA": "BGC0000854_c1",
+   "RABMAA": "BGC0000984_c1"
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "BGC0000837_c1",
+   "PA": "",
+   "PABMAA": "BGC0000836_c1",
+   "RA": "BGC0000939_c1",
+   "RABMAA": "BGC0001055_c1"
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "BGC0000837_c1",
+   "PA": "",
+   "PABMAA": "BGC0000836_c1",
+   "RA": "BGC0000984_c1",
+   "RABMAA": "BGC0001415_c1"
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "BGC0001055_c1",
+   "PA": "",
+   "PABMAA": "BGC0000836_c1",
+   "RA": "BGC0000984_c1",
+   "RABMAA": ""
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "BGC0001065_c1",
+   "PA": "",
+   "PABMAA": "BGC0000836_c1",
+   "RA": "BGC0001055_c1",
+   "RABMAA": ""
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "BGC0001090_c1",
+   "PA": "",
+   "PABMAA": "BGC0000837_c1",
+   "RA": "",
+   "RABMAA": ""
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "BGC0001090_c1",
+   "PA": "",
+   "PABMAA": "BGC0000837_c1",
+   "RA": "",
+   "RABMAA": ""
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "BGC0001155_c1",
+   "PA": "",
+   "PABMAA": "BGC0000837_c1",
+   "RA": "",
+   "RABMAA": ""
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "BGC0001155_c1",
+   "PA": "",
+   "PABMAA": "BGC0000939_c1",
+   "RA": "",
+   "RABMAA": ""
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "",
+   "PA": "",
+   "PABMAA": "BGC0001055_c1",
+   "RA": "",
+   "RABMAA": ""
+ },
+ {
+   "EG1": "",
+   "EG1BMAA": "",
+   "PA": "",
+   "PABMAA": "BGC0001415_c1",
+   "RA": "",
+   "RABMAA": ""
+ }
+]
