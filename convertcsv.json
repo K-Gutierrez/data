@@ -3,7 +3,12 @@
 	"header": 0,
 	"separator": "\t",
 	"skip": 0
-"meta": [ {"EG1","EG1BMAA","PA","PABMAA","RA","RABMAA"}
+"meta": [ {"EG1"
+	   "EG1BMAA"
+	   "PA"
+	   "PABMAA"
+	   "RA"
+	   "RABMAA"}
 	],
 "sets": {
    "EG1":["1_NRPs","14_T2pks","2_thiopeptide","3_Hserlac","3_Hserlac","5_Acylamino","BGC0000295_c1","BGC0000295_c1","BGC0000451_c1","BGC0000451_c1","BGC0000451_c1","BGC0000451_c1","BGC0000451_c1","BGC0000636_c1","BGC0000637_c1","BGC0000639_c1","BGC0000639_c1","BGC0000641_c1","BGC0000836_c1","BGC0000836_c1","BGC0000836_c1","BGC0000836_c1","BGC0000837_c1","BGC0000837_c1","BGC0000939_c1","BGC0001090_c1","BGC0001351_c1","","","","","","","","","",""],
