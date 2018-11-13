@@ -1,4 +1,9 @@
-[
+"file": "data/master/convertcsv.json",
+	"name": "data",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0
+"sets": [
  {
    "EG1": "1_NRPs",
    "EG1BMAA": "1_bacterio",
